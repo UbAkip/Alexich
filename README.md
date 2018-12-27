@@ -1,2 +1,21 @@
-
-Test
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <meta charset="utf-8" />
+    <title>Happy birthday!</title>
+    <style>
+    p {
+      font-size: 36px;
+            font-weight: normal;
+            align-content:center;
+    }
+    </style>
+    <body>
+    <p> 
+    C днем рождения
+    </p>
+    </body>
+    </head>
+    </html>
+    Test
